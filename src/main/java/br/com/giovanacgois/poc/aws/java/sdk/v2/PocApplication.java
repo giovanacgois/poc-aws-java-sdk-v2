@@ -1,13 +1,13 @@
-package br.com.giovanacgois.pocs;
+package br.com.giovanacgois.poc.aws.java.sdk.v2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PocsApplication {
+public class PocApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PocsApplication.class, args);
+		SpringApplication.run(PocApplication.class, args);
 	}
 
 }

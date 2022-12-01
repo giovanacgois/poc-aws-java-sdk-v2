@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.com.giovanacgois</groupId>
-    <artifactId>pocs</artifactId>
+    <artifactId>poc-aws-java-sdk-v2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>pocs</name>
     <description>Projeto para estudar conceitos diversos</description>

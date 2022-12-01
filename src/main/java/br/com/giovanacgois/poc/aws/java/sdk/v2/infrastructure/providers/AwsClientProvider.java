@@ -1,8 +1,6 @@
-package br.com.giovanacgois.pocs.infrastructure.providers;
+package br.com.giovanacgois.poc.aws.java.sdk.v2.infrastructure.providers;
 
-import br.com.giovanacgois.pocs.infrastructure.properties.AwsProperties;
-import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
+import br.com.giovanacgois.poc.aws.java.sdk.v2.infrastructure.properties.AwsProperties;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

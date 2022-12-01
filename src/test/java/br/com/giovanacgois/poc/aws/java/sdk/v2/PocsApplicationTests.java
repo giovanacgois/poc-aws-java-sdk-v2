@@ -1,4 +1,4 @@
-package br.com.giovanacgois.pocs;
+package br.com.giovanacgois.poc.aws.java.sdk.v2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

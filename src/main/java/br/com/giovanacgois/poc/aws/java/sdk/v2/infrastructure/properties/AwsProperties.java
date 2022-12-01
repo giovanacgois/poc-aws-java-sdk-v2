@@ -1,4 +1,4 @@
-package br.com.giovanacgois.pocs.infrastructure.properties;
+package br.com.giovanacgois.poc.aws.java.sdk.v2.infrastructure.properties;
 
 import lombok.Getter;
 import org.springframework.beans.factory.annotation.Value;
