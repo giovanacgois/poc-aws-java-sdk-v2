@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    credentials:
+      access-key: ${AWS_ACCESS_KEY_ID}
+      secret-key: ${AWS_SECRET_ACCESS_KEY}
+    endpoint:
+      uri: ${AWS_ENDPOINT_URI}
+    region:
+      static: eu-central-1
+      auto: false
